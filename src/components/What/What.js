@@ -6,21 +6,20 @@ import pumpFunLogo from "../../assets/images/pump.png";
 const GalaxyWenInfo = () => {
     return (
         <GalaxyWenWrapper>
-            {/* What is GalaxyWen */}
-            <h1 className="section-title">What is WagCoin?</h1>
+            {/* What is PixelGrid */}
+            <h1 className="section-title">What is PixelGrid?</h1>
             <p className="content">
-                WagCoin is more than just a meme token—it's a celebration of fun, community, and playful vibes.
-                Designed for meme enthusiasts and crypto dreamers alike, WagCoin brings laughter and lighthearted energy
-                to the blockchain.
-                Why settle for "Wen Moon?" when you can enjoy the journey with a wagging tail and endless smiles?
+                PixelGrid isn’t just a meme token—it’s a gateway to the future of AI and blockchain.
+                Built on the concept of neural networks and inspired by the precision of digital pixels, PixelGrid connects humans and technology in a dynamic, decentralized ecosystem.
+                Why chase fleeting trends when you can be part of building a smarter, AI-powered future—one connection, one pixel, one block at a time?
             </p>
 
             {/* Call to Action Buttons */}
             <div className="buttons-container">
-                <a href="https://t.me/+x6SX5geQaecyNGJi" target="_blank" rel="noopener noreferrer">
+                <a href="https://t.me/+lDlEvpHhZA9mYWUy" target="_blank" rel="noopener noreferrer">
                     <img src={telegramIcon} alt="Telegram"/>
                 </a>
-                <a href="https://x.com/WagCoin65476" target="_blank" rel="noopener noreferrer">
+                <a href="https://x.com/NeuroGrid1" target="_blank" rel="noopener noreferrer">
                     <img src={xIcon} alt="X"/>
                 </a>
                 <a href="#pump-fun">

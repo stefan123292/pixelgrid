@@ -1,10 +1,10 @@
 export const planets = [
     {
         id: 0,
-        name: 'About WagCoin',
+        name: 'About PixelGrid',
         path: '/about',
         color: 'hsl(210, 90%, 85%)',
-        description: 'Discover what makes WagCoin the most fun and engaging meme token in crypto.'
+        description: 'Discover what makes PixelGrid the most fun and engaging meme token in crypto.'
     },
     {
         id: 1,
@@ -18,13 +18,13 @@ export const planets = [
         name: 'How to Buy',
         path: '/how-to-buy',
         color: 'hsl(130, 70%, 75%)',
-        description: 'Learn how to get your hands on WagCoin quickly and easily.'
+        description: 'Learn how to get your hands on PixelGrid quickly and easily.'
     },
     {
         id: 3,
         name: 'Community',
         path: '/community',
         color: 'hsl(340, 85%, 80%)',
-        description: 'Join the WagCoin community and be part of the fun.'
+        description: 'Join the PixelGrid community and be part of the fun.'
     }
 ];

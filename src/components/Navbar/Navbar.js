@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import {Header, Logo, LogoLink, Container, Home} from './NavbarStyles';
 import NavMobile from './NavMobile/NavMobile';
 import NavDesktop from './NavDesktop/NavDesktop';
-import wagImg from "../../assets//images/wag.png"; // Path to your logo image
+import wagImg from "../../assets/images/el.png"; // Path to your logo image
 
 const Navbar = ({ pathName, activePlanet, onHover }) => {
     const [windowWidth, setWindowWidth] = useState(window.innerWidth);
@@ -41,7 +41,7 @@ const Navbar = ({ pathName, activePlanet, onHover }) => {
                     <LogoLink to="/">
                         <Home>
                             <img src={wagImg} alt="Wag Logo"/>
-                            <p style={{ marginLeft: '15px'}}>WagCoin</p>
+                            <p style={{ marginLeft: '15px'}}>PixelGrid</p>
                         </Home>
                     </LogoLink>
                 </Logo>

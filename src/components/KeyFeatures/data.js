@@ -1,22 +1,22 @@
 export const data = [
     {
-        title: "Fair Launch",
+        title: "AI-Powered Launch",
         description:
-            "No pre-sale, no special treatment. WagCoin is for everyone, right from day one.",
+            "No pre-sale, no special privileges. PixelGrid is for everyone, powered by AI precision and transparency from day one.",
     },
     {
-        title: "Community Driven",
+        title: "Community at the Core",
         description:
-            "The WagCoin community is at the heart of everything—bringing fun, memes, and good vibes.",
+            "The PixelGrid community drives the ecosystem forward—connecting humans, robots, and innovation in a shared vision.",
     },
     {
-        title: "Playful Vision",
+        title: "Vision for the Future",
         description:
-            "Forget the moon—WagCoin is here to make the crypto journey lighthearted and enjoyable.",
+            "More than a trend, PixelGrid is building a smarter, interconnected future where AI and blockchain meet.",
     },
     {
-        title: "Meme-Powered",
+        title: "Pixel-Perfect Progress",
         description:
-            "Rooted in meme culture, WagCoin proves that fun and community can drive the crypto space forward.",
+            "Inspired by neural networks and digital pixels, PixelGrid shows that precision, creativity, and community can shape the crypto space.",
     },
 ];

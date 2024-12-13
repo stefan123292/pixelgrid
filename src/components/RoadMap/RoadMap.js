@@ -1,6 +1,6 @@
 import { roadmapData } from "./data";
 import {RoadmapStyles} from "./RoadMapStyles";
-import wagImg from "../../assets/images/wag.png"
+import wagImg from "../../assets/images/el.png"
 import {useEffect, useRef} from "react";
 import { gsap } from "gsap";
 
@@ -16,7 +16,7 @@ const RoadMap = () => {
     }, []);
     return (
         <RoadmapStyles>
-            <h1>WagCoin Roadmap</h1>
+            <h1>PixelGrid Roadmap</h1>
             <div className="roadmap-container">
                 {roadmapData.map((item, index) => (
                     <div className="roadmap-item" key={index}>

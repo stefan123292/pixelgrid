@@ -1,5 +1,5 @@
 {
-  "name": "wog-coin",
+  "name": "neuro-grid",
   "version": "1.0.0",
   "description": "",
   "main": "public/index.html",
@@ -12,8 +12,7 @@
     "deploy": "gh-pages -d build"
   },
   "keywords": [],
-  "author": "Wen",
-  "homepage": "https://wagcoin.xyz/",
+  "author": "PixelGrid",
   "devDependencies": {
     "gh-pages": "^6.2.0",
     "laravel-mix": "^6.0.25",
