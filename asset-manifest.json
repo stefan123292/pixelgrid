@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.dcf04e11.js",
+    "static/media/el.png": "/static/media/el.804d0fb7d8c72c3703ef.png",
+    "static/media/telegram.png": "/static/media/telegram.435430debc6c01a5fa6f.png",
+    "static/media/pump.png": "/static/media/pump.00027a4349c86811a414.png",
+    "index.html": "/index.html",
+    "main.dcf04e11.js.map": "/static/js/main.dcf04e11.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dcf04e11.js"
+  ]
+}
